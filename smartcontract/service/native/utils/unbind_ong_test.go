@@ -21,10 +21,9 @@ package utils
 import (
 	"math/rand"
 	"testing"
-
-	"github.com/ethereum/go-ethereum/common/math"
 	"github.com/ontio/ontology/common/constants"
 	"github.com/stretchr/testify/assert"
+	"math"
 )
 
 func TestCalcUnbindOng(t *testing.T) {
