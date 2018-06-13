@@ -46,3 +46,4 @@ import:
 - package: github.com/gosuri/uiprogress
 ignore:
   - golang.org/x/sys/unix
+  - github.com/ontio/ontology-crypto
